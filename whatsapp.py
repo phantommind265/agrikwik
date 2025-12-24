@@ -1,4 +1,4 @@
-mport requests
+import requests
 
 GUPSHUP_API_KEY = "sk_87281b6777f042d785e4caae1871dbd5"
 APP_NAME = "Agrikwik"
